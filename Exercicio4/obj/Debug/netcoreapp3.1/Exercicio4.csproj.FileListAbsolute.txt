@@ -1,0 +1,12 @@
+C:\Cursos\Curso C#\Curso C# - Reboot 2\Capitulo 14 - Interfaces\Exercicio4\Exercicio4\bin\Debug\netcoreapp3.1\Exercicio4.exe
+C:\Cursos\Curso C#\Curso C# - Reboot 2\Capitulo 14 - Interfaces\Exercicio4\Exercicio4\bin\Debug\netcoreapp3.1\Exercicio4.deps.json
+C:\Cursos\Curso C#\Curso C# - Reboot 2\Capitulo 14 - Interfaces\Exercicio4\Exercicio4\bin\Debug\netcoreapp3.1\Exercicio4.runtimeconfig.json
+C:\Cursos\Curso C#\Curso C# - Reboot 2\Capitulo 14 - Interfaces\Exercicio4\Exercicio4\bin\Debug\netcoreapp3.1\Exercicio4.runtimeconfig.dev.json
+C:\Cursos\Curso C#\Curso C# - Reboot 2\Capitulo 14 - Interfaces\Exercicio4\Exercicio4\bin\Debug\netcoreapp3.1\Exercicio4.dll
+C:\Cursos\Curso C#\Curso C# - Reboot 2\Capitulo 14 - Interfaces\Exercicio4\Exercicio4\bin\Debug\netcoreapp3.1\Exercicio4.pdb
+C:\Cursos\Curso C#\Curso C# - Reboot 2\Capitulo 14 - Interfaces\Exercicio4\Exercicio4\obj\Debug\netcoreapp3.1\Exercicio4.AssemblyInfoInputs.cache
+C:\Cursos\Curso C#\Curso C# - Reboot 2\Capitulo 14 - Interfaces\Exercicio4\Exercicio4\obj\Debug\netcoreapp3.1\Exercicio4.AssemblyInfo.cs
+C:\Cursos\Curso C#\Curso C# - Reboot 2\Capitulo 14 - Interfaces\Exercicio4\Exercicio4\obj\Debug\netcoreapp3.1\Exercicio4.csproj.CoreCompileInputs.cache
+C:\Cursos\Curso C#\Curso C# - Reboot 2\Capitulo 14 - Interfaces\Exercicio4\Exercicio4\obj\Debug\netcoreapp3.1\Exercicio4.dll
+C:\Cursos\Curso C#\Curso C# - Reboot 2\Capitulo 14 - Interfaces\Exercicio4\Exercicio4\obj\Debug\netcoreapp3.1\Exercicio4.pdb
+C:\Cursos\Curso C#\Curso C# - Reboot 2\Capitulo 14 - Interfaces\Exercicio4\Exercicio4\obj\Debug\netcoreapp3.1\Exercicio4.genruntimeconfig.cache
